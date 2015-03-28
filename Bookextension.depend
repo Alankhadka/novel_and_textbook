@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1426839322 source:c:\users\crank\desktop\new folder\bookextension\author.cpp
+	<iostream>
+	"Author.h"
+
+1427472792 c:\users\crank\desktop\new folder\bookextension\author.h
+	<iostream>
+
+1427101051 source:c:\users\crank\desktop\new folder\bookextension\book.cpp
+	<iostream>
+	"Book.h"
+
+1427359951 c:\users\crank\desktop\new folder\bookextension\book.h
+	<iostream>
+	"Author.h"
+
+1427516499 source:c:\users\crank\desktop\new folder\bookextension\nobel.cpp
+	<iostream>
+	"Novel.h"
+
+1427516778 c:\users\crank\desktop\new folder\bookextension\novel.h
+	<iostream>
+	"Book.h"
+
+1427516837 source:c:\users\crank\desktop\new folder\bookextension\novel.cpp
+	<iostream>
+	"Novel.h"
+

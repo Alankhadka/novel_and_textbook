@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1426839322 source:c:\users\crank\desktop\author.cpp
+	<iostream>
+	"Author.h"
+
+1426840408 c:\users\crank\desktop\author.h
+	<iostream>
+
+1427101051 source:c:\users\crank\desktop\book.cpp
+	<iostream>
+	"Book.h"
+
+1427101043 c:\users\crank\desktop\book.h
+	<iostream>
+	"Author.h"
+
+1427523925 source:c:\users\crank\desktop\testtextbook.cpp
+	<iostream>
+	"Textbook.h"
+
+1427524722 c:\users\crank\desktop\textbook.h
+	<iostream>
+	"Book.h"
+
+1427524724 source:c:\users\crank\desktop\textbook.cpp
+	<iostream>
+	"Textbook.h"
+
